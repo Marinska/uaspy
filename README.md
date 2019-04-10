@@ -104,7 +104,3 @@ if __name__ == "__main__":
          theApp.run()
 ```
 
-![github](https://github.com/Marinska/labpy03/blob/master/9.PNG)
-
-
-![github](https://github.com/Marinska/labpy03/blob/master/9.PNG)
